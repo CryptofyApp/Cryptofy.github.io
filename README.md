@@ -6,6 +6,7 @@
 
 ### This is the official Cryptofy support website.
 - You can read the privacy policy here: [Privacy Policy](https://cryptofyapp.github.io/Privacy-Policy/).
+- You can also read our Terms and Conditions here: []().
 - Contact me here as wel, at <CryptofyApp@outlook.com>.
 
 

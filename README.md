@@ -5,7 +5,7 @@
 
 
 ### This is the official Cryptofy support website.
-- You can read the privacy policy here: [Privacy Policy](https://mishoppinglist.github.io/Privacy-Policy/).
+- You can read the privacy policy here: [Privacy Policy](https://cryptofyapp.github.io/Privacy-Policy/).
 - Contact me here as wel, at <CryptofyApp@outlook.com>.
 
 

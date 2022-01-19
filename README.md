@@ -1,6 +1,6 @@
 # Cryptofy
 
-![](CryptofyTransparant256.png){:height="200px" width="200px"}
+![](CryptofyTransparant256.png)
 ###### iOS App
 
 
